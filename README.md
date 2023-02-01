@@ -1,4 +1,4 @@
 # Hello World!
  Study
 
-Linha alterada diretemante do site
+Linha alterada diretamante do site
