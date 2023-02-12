@@ -1,4 +1,6 @@
 # Hello World!
- Study
 
-Linha alterada diretamante do site
+***
+- Atualmente estudando **HTML, CSS e JavaScript**
+
+
